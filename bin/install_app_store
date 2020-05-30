@@ -8,8 +8,8 @@ if ! command -v mas > /dev/null; then
   exit 1
 fi
 
-# 1Password
-mas install 443987910
+# # 1Password
+# mas install 443987910
 
 # # Acorn
 # mas install 1019272813
@@ -85,6 +85,10 @@ mas install 443987910
 #
 # # Pages
 # mas install 409201541
+
+# Parcel package tracker
+mas install 639968404
+
 #
 # # Patterns
 # mas install 429449079
@@ -94,9 +98,16 @@ mas install 443987910
 #
 # # Pixelmator
 # mas install 407963104
+
+# Save to Pocket safari extension
+mas install 1477385213
+
 #
 # # Shush
 # mas install 496437906
+
+# Spark email
+mas install 1176895641
 
 # SimpleNote
 mas install 692867256

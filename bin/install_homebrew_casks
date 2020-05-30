@@ -16,6 +16,7 @@ brew cask install atom
 brew cask install dropbox
 brew cask install firefox
 # brew cask install fission
+brew cask install flux
 brew cask install google-chrome
 # brew cask install handbrake
 # brew cask install hazel
@@ -39,8 +40,9 @@ brew cask install iterm2
 # brew cask install signal
 # brew cask install spotify
 # brew cask install sublime-text
+brew cask install the-unarchiver
 # brew cask install tor-browser
 # brew cask install transmit
 # brew cask install viscosity
 # brew cask install visual-studio-code
-# brew cask install vlc
+brew cask install vlc

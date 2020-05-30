@@ -47,7 +47,7 @@ brew install mas
 # brew install ncdu
 # brew install nginx
 # brew install ngrep
-# brew install node
+brew install node
 # brew install noti
 # brew install nushell
 # brew install openssl
